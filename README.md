@@ -1,9 +1,10 @@
-# E-Nilai
+# E-Nilai 
 Fitri Syukriasari - 2014150097 <br>
-Gustiani Salimah - 2014150088
+Gustiani Salimah - 2014150088<br>
+
 # Install
 
-1. Laravel
+1. Laravel <br>
 rename .env.example to .env <br>
 composer update / composer install <br>
 php artisan key:generate <br>
@@ -18,5 +19,5 @@ Develop with Android Studio <br>
 Edit URL = http://l127.0.0.7:8081/api <br>
 ------------------------------------------------------
 # Route API <br>
-ALL END POINTS <br>
+ALL END POINTS <br><br>
 <img src="endpoints.png">
