@@ -1,4 +1,10 @@
-# E-Nilai 
+# E-Nilai
+Sebuah aplikasi yang memberikan solusi secara efisisen, dinamis dan realtime. <br>
+Diperuntukkan untuk mahaguru dalam menginputkan nilai mahasiswa. <br>
+Nilai dilihat lewat frontend Angular dan penginputan lewat mobile yang didevelop menggunakana IDE Android Studio berbasis Java. <br>
+Backend menggunakan framework Laravel. <br>
+
+# Team
 Fitri Syukriasari - 2014150097 <br>
 Gustiani Salimah - 2014150088<br>
 
@@ -16,7 +22,7 @@ ng serve <br>
 
 3. Mobile <br>
 Develop with Android Studio <br>
-Edit URL = http://l127.0.0.7:8081/api <br>
+Edit URL = http://127.0.0.7:8081/api <br>
 ------------------------------------------------------
 # Route API <br>
 ALL END POINTS <br><br>
