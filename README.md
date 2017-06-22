@@ -24,6 +24,10 @@ ng serve <br>
 Develop with Android Studio <br>
 Edit URL = http://127.0.0.7:8081/api <br>
 
+# Database <br>
+Relasi Database <br><br>
+<img src="lib/relasidatabase.png"> <br>
+
 # Route API <br>
 ALL END POINTS <br><br>
 <img src="lib/endpoints.png">
