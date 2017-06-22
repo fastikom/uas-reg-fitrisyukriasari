@@ -9,15 +9,15 @@ composer update / composer install <br>
 php artisan key:generate <br>
 php artisan serve --port=8081 <br>
 
-2. Angular
-npm install
-ng serve
+2. Angular <br>
+npm install <br>
+ng serve <br>
 
-3. Mobile
-Develop with Android Studio
-Edit URL = http://l127.0.0.7:8081/api
+3. Mobile <br>
+Develop with Android Studio <br>
+Edit URL = http://l127.0.0.7:8081/api <br>
 ------------------------------------------------------
-Route API
+# Route API <br>
 
 +--------+-----------+-----------------------------------------+--------------------------------------+----------------------------------------------------------------------------+--------------+
 | Domain | Method    | URI                                     | Name                                 | Action                                                                     | Middleware   |
