@@ -23,7 +23,7 @@ ng serve <br>
 3. Mobile <br>
 Develop with Android Studio <br>
 Edit URL = http://127.0.0.7:8081/api <br>
-------------------------------------------------------
+
 # Route API <br>
 ALL END POINTS <br><br>
-<img src="endpoints.png">
+<img src="lib/endpoints.png">
