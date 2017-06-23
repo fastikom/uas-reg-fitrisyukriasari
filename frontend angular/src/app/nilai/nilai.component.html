@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container" >
+<blockquote class="blockquote">
+<table class="table table-striped" >
+    <thead>
+      <tr>
+        <th>Nama</th>
+        <th>Nilai</th>
+        <th>Matkul</th>
+        <th>Update</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let nilai of nilai">
+        <td>{{nilai.nama}}</td>
+        <td>{{nilai.nilai}}</td>
+        <td>{{nilai.matkul}}</td>
+        <td>{{nilai.updated_at}}</td>
+      </tr>
+    </tbody>
+  </table>
+  </blockquote>
+</div>
+
+</body>
+</html>
