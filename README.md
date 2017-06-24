@@ -10,19 +10,30 @@ Gustiani Salimah - 2014150088<br>
 
 # Install
 
+------------------------------------
+check IP Address via command prompt<br>
+ipconfig <br>
+
+look address ipv4 <br> 
+with wifi theatering <br>
+example : 192.168.43.110 <br>
+------------------------------------
+
 1. Laravel <br>
 rename .env.example to .env <br>
 composer update / composer install <br>
 php artisan key:generate <br>
-php artisan serve --port=8081 <br>
+php artisan serve --host 0.0.0.0 <br>
+URL : http://ipaddress:8000 (port default) <br>
 
 2. Angular <br>
 npm install <br>
+edit url nilai service http://ipaddress:8000
 ng serve <br>
 
 3. Mobile <br>
 Develop with Android Studio <br>
-Edit URL = http://127.0.0.7:8081/api <br>
+Edit URL = http://ipaddress:8000/api <br>
 
 # Route API <br>
 ALL END POINTS <br><br>
