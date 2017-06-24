@@ -27,6 +27,7 @@ URL : http://ipaddress:8000 (port default) <br>
 npm install <br>
 edit url nilai service http://ipaddress:8000 <br>
 ng serve <br>
+URL : http://localhost:4200 <br>
 
 3. Mobile <br>
 Develop with Android Studio <br>
@@ -41,3 +42,6 @@ ALL END POINTS <br><br>
 <img src="lib/photo_2017-06-24_19-11-40.jpg"> <br>
 <img src="lib/photo_2017-06-24_19-11-43.jpg"> <br>
 <img src="lib/photo_2017-06-24_19-11-35.jpg"> <br>
+
+# APK
+Check this https://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/enilai.apk
