@@ -10,14 +10,11 @@ Gustiani Salimah - 2014150088<br>
 
 # Install
 
-------------------------------------
 check IP Address via command prompt<br>
-ipconfig <br>
-
+ipconfig <br><br>
 look address ipv4 <br> 
 with wifi theatering <br>
-example : 192.168.43.110 <br>
-------------------------------------
+example : 192.168.43.110 <br><br>
 
 1. Laravel <br>
 rename .env.example to .env <br>
