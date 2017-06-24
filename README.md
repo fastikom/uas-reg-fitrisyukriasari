@@ -38,10 +38,12 @@ ALL END POINTS <br><br>
 <img src="lib/endpoints.png"> <br>
 
 # Screenshots
-<img width="160px" height="300px" src="lib/photo_2017-06-24_19-11-48.jpg"> 
-<img width="160px" height="300px" src="lib/photo_2017-06-24_19-11-40.jpg"> 
-<img width="160px" height="300px" src="lib/photo_2017-06-24_19-11-43.jpg"> 
-<img width="160px" height="300px" src="lib/photo_2017-06-24_19-11-35.jpg"> <br>
+<ul>
+    <li><img width="160px" height="300px" src="lib/photo_2017-06-24_19-11-48.jpg"></li>
+    <li><img width="160px" height="300px" src="lib/photo_2017-06-24_19-11-40.jpg"> </li>
+    <li><img width="160px" height="300px" src="lib/photo_2017-06-24_19-11-43.jpg"></li>
+    <li><img width="160px" height="300px" src="lib/photo_2017-06-24_19-11-35.jpg"></li>
+</ul><br>
 
 # APK
 Check this <a href="https://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/enilai.apk"> Download </a>
