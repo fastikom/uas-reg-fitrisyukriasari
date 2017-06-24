@@ -25,7 +25,7 @@ URL : http://ipaddress:8000 (port default) <br>
 
 2. Angular <br>
 npm install <br>
-edit url nilai service http://ipaddress:8000
+edit url nilai service http://ipaddress:8000 <br>
 ng serve <br>
 
 3. Mobile <br>
