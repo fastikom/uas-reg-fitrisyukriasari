@@ -45,10 +45,10 @@ ALL END POINTS <br><br>
     <li><img width="160px" height="300px" src="lib/photo_2017-06-24_19-11-35.jpg"></li>
 </ul> -->
 
-<img width="170px" height="300px" src="lib/photo_2017-06-24_19-11-48.jpg"> 
-<img width="170px" height="300px" src="lib/photo_2017-06-24_19-11-40.jpg"> 
-<img width="170px" height="300px" src="lib/photo_2017-06-24_19-11-43.jpg"> 
-<img width="170px" height="300px" src="lib/photo_2017-06-24_19-11-35.jpg"> 
+<img width="170px" height="300px" src="lib/photo_2017-06-24_19-11-48.jpg"> <br>
+<img width="170px" height="300px" src="lib/photo_2017-06-24_19-11-40.jpg"> <br>
+<img width="170px" height="300px" src="lib/photo_2017-06-24_19-11-43.jpg"> <br>
+<img width="170px" height="300px" src="lib/photo_2017-06-24_19-11-35.jpg"> <br>
 
 <!-- | [![1](https://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/photo_2017-06-24_19-11-48.jpg)](https://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/photo_2017-06-24_19-11-48.jpg)  | [![2](https://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/photo_2017-06-24_19-11-40.jpg)](https://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/photo_2017-06-24_19-11-40.jpg) | [![3](shttps://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/photo_2017-06-24_19-11-43.jpg)](https://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/photo_2017-06-24_19-11-43.jpg) | [![4](https://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/photo_2017-06-24_19-11-35.jpg)](https://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/photo_2017-06-24_19-11-35.jpg) | -->
 
