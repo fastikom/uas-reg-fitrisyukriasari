@@ -38,6 +38,16 @@ ALL END POINTS <br><br>
 <img src="lib/endpoints.png"> <br>
 
 # Screenshots
+<style type="text/css">
+ul {
+  white-space: nowrap;
+}
+
+ul, li {
+  list-style: none;
+  display: inline;
+}
+</style>
 <ul>
     <li><img width="160px" height="300px" src="lib/photo_2017-06-24_19-11-48.jpg"></li>
     <li><img width="160px" height="300px" src="lib/photo_2017-06-24_19-11-40.jpg"> </li>
