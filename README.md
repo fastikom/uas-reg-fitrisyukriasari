@@ -14,7 +14,7 @@ check IP Address via command prompt<br>
 ipconfig <br><br>
 look address ipv4 <br> 
 with wifi theatering <br>
-example : 192.168.43.110 <br><br>
+example ipadress : 192.168.43.110 <br><br>
 
 1. Laravel <br>
 rename .env.example to .env <br>
