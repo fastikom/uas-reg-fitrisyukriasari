@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/input_nama"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorPrimaryDark"
+        android:hint="Nama"
+        android:inputType="textPersonName"/>
+
+    <EditText
+        android:id="@+id/input_nilai"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorPrimaryDark"
+        android:hint="Nilai"
+        android:inputType="text"/>
+
+    <EditText
+        android:id="@+id/input_matkul"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorPrimaryDark"
+        android:hint="Mata Kuliah"
+        android:inputType="text"/>
+
+    <Button
+        android:layout_marginTop="10dp"
+        android:id="@+id/button_add"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/colorPrimaryDark"
+        android:elevation="4dp"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:text="Save"
+        android:textColor="#fff"/>
+
+    <Button
+        android:layout_marginTop="10dp"
+        android:id="@+id/button_back"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/colorPrimaryDark"
+        android:elevation="4dp"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:text="Back"
+        android:textColor="#fff"/>
+
+
+</LinearLayout>
