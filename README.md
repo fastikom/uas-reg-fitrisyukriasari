@@ -37,6 +37,9 @@ Edit URL = http://ipaddress:8000/api <br>
 ALL END POINTS <br><br>
 <img src="lib/endpoints.png"> <br>
 
+# APK
+Check this <a href="https://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/enilai.apk"> Download </a><br>
+
 # Screenshots
 <!-- <ul>
     <li><img width="160px" height="300px" src="lib/photo_2017-06-24_19-11-48.jpg"></li>
@@ -53,5 +56,3 @@ ALL END POINTS <br><br>
 <!-- | [![1](https://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/photo_2017-06-24_19-11-48.jpg)](https://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/photo_2017-06-24_19-11-48.jpg)  | [![2](https://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/photo_2017-06-24_19-11-40.jpg)](https://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/photo_2017-06-24_19-11-40.jpg) | [![3](shttps://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/photo_2017-06-24_19-11-43.jpg)](https://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/photo_2017-06-24_19-11-43.jpg) | [![4](https://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/photo_2017-06-24_19-11-35.jpg)](https://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/photo_2017-06-24_19-11-35.jpg) | -->
 
 <br>
-# APK
-Check this <a href="https://github.com/fastikom/uas-reg-fitrisyukriasari/blob/master/lib/enilai.apk"> Download </a>
