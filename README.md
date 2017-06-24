@@ -34,4 +34,10 @@ Edit URL = http://ipaddress:8000/api <br>
 
 # Route API <br>
 ALL END POINTS <br><br>
-<img src="lib/endpoints.png">
+<img src="lib/endpoints.png"> <br>
+
+# Screenshots
+<img src="lib/photo_2017-06-24_19-11-48.jpg"> <br>
+<img src="lib/photo_2017-06-24_19-11-40.jpg"> <br>
+<img src="lib/photo_2017-06-24_19-11-43.jpg"> <br>
+<img src="lib/photo_2017-06-24_19-11-35.jpg"> <br>
